@@ -1,4 +1,4 @@
-package ru.mirea.offline_web_app;
+package ru.mirea.rbd1_remote_control;
 
 import android.content.res.AssetManager;
 

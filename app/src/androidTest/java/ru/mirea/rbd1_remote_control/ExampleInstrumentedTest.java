@@ -1,4 +1,4 @@
-package ru.mirea.offline_web_app;
+package ru.mirea.rbd1_remote_control;
 
 import static org.junit.Assert.assertEquals;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.offline_web_app", appContext.getPackageName());
+        assertEquals("ru.mirea.rbd1_remote_control", appContext.getPackageName());
     }
 }
